@@ -1,0 +1,20 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.Navbar {
+    text-decoration: none;
+    justify-content: center;
+    display: inline-block;
+    margin: 0rem, 5rem;
+    color: #fff;
+}
+
+
+.Montserrat {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+}
